@@ -1,0 +1,15 @@
+final_project_crab_coco_main.o: final_project_crab_coco_Main.c
+final_project_crab_coco_main.o: D:\Keil\ARM\RV31\Inc\stdio.h
+final_project_crab_coco_main.o: D:\Keil\ARM\RV31\Inc\stdlib.h
+final_project_crab_coco_main.o: D:\Keil\ARM\RV31\Inc\string.h
+final_project_crab_coco_main.o: ..\..\..\Include\NUC1xx-LB_002\Seven_Segment.h
+final_project_crab_coco_main.o: D:\Keil\ARM\RV31\Inc\time.h
+final_project_crab_coco_main.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+final_project_crab_coco_main.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+final_project_crab_coco_main.o: D:\Keil\ARM\RV31\Inc\stdint.h
+final_project_crab_coco_main.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+final_project_crab_coco_main.o: ..\..\..\Include\System\SysInfra.h
+final_project_crab_coco_main.o: ..\..\..\Include\System\ModuleID.h
+final_project_crab_coco_main.o: ..\..\..\Include\Driver\DrvSYS.h
+final_project_crab_coco_main.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+final_project_crab_coco_main.o: ..\..\..\Include\Driver\DrvGPIO.h

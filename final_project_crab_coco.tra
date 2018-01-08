@@ -1,0 +1,28 @@
+*** Creating Trace Output File 'final_project_crab_coco.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"core_cm0.o"'
+### List of Objects: adding '"system_nuc1xx.o"'
+### List of Objects: adding '".\startup_nuc1xx.o"'
+### List of Objects: adding '"scankey.o"'
+### List of Objects: adding '"lcd_driver.o"'
+### List of Objects: adding '"ascii_table.o"'
+### List of Objects: adding '"seven_segment.o"'
+### List of Objects: adding '"final_project_crab_coco_main.o"'
+### List of Objects: adding '"2d_graphic_driver.o"'
+### List of Objects: adding '"drvgpio.o"'
+### List of Objects: adding '"drvsys.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 "core_cm0.o" "system_nuc1xx.o" ".\startup_nuc1xx.o" "scankey.o" "lcd_driver.o" "ascii_table.o" "seven_segment.o" "final_project_crab_coco_main.o" "2d_graphic_driver.o" "drvgpio.o" "drvsys.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\final_project_crab_coco.map" -o "final_project_crab_coco.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'final_project_crab_coco.axf'
+### ADS-LD Command File: 'final_project_crab_coco.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'final_project_crab_coco.lnp', Handle=0x00000A94
+### Writing '.lnp' file
+### ADS-LD Command file 'final_project_crab_coco.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
